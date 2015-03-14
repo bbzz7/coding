@@ -1,8 +1,5 @@
-# Creative Coding Chat
+# [Creative Coding Chat](http://gitter.im/creative/coding)
 Join the chat at http://gitter.im/creative/coding
-
-## Contribute
-Say hello to contact@xavierho.com or send a pull request `:)`
 
 ## Tools
  * [Processing](https://processing.org/) [Java, Python, Javascript (p5.js)]
@@ -22,3 +19,6 @@ Say hello to contact@xavierho.com or send a pull request `:)`
 ## Videos
  * [The Wonderful World of Creative Coding](http://creativemornings.com/talks/esben-hardenberg/1)
  * [The Art of Creative Coding](https://www.youtube.com/watch?v=eBV14-3LT-g)
+
+## Contribute to this file
+Say hello to contact@xavierho.com or send a pull request `:)`
