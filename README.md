@@ -1,5 +1,5 @@
 # [Creative Coding Chat](http://gitter.im/creative/coding)
-Join the chat at http://gitter.im/creative/coding
+**Join the chat at http://gitter.im/creative/coding**
 
 ## Tools
  * [Processing](https://processing.org/) [Java, Python, Javascript (p5.js)]
