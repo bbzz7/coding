@@ -1,6 +1,7 @@
 # [Creative Coding Chat](http://gitter.im/creative/coding)
 
 [![Join the chat at https://gitter.im/creative/coding](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/creative/coding?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Join the chat at http://gitter.im/creative/coding**
 
 ## Tools
